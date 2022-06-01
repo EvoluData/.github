@@ -1,5 +1,8 @@
-EvoluData is the main contributor to WikiSuite and Tiki Wiki CMS Groupware.
+[EvoluData](https://EvoluData.com) is the main contributor to [WikiSuite](https://WikiSuite.org) and [Tiki Wiki CMS Groupware](https://tiki.org).
 
+You won't find any code in this repo because we are an ["Upstream first" organization (like Red Hat)](https://www.redhat.com/en/blog/what-open-source-upstream) and we contribute in each project's repository.
+
+WikiSuite federates a number of Open Source projects, and you can find the source code of each project here: https://wikisuite.org/Source-Code
 
 
 
